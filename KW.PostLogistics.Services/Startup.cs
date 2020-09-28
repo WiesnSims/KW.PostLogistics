@@ -80,8 +80,7 @@ namespace KW.PostLogistics.Services
                            Name = "SKS",
                            Url = new Uri("http://www.technikum-wien.at/"),
                            Email = ""
-                        }//,
-                        //TermsOfService = new Uri("")
+                        }
                     });
                     c.CustomSchemaIds(type => type.FullName);
                     c.IncludeXmlComments($"{AppContext.BaseDirectory}{Path.DirectorySeparatorChar}{_hostingEnv.ApplicationName}.xml");
