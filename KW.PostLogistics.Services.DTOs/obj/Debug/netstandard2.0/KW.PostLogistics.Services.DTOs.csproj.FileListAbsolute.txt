@@ -1,0 +1,9 @@
+C:\Users\sime2\Desktop\5sem\SKS\aspnetcore-server-generated\src\KW.PostLogistics.Services.DTOs\bin\Debug\netstandard2.0\KW.PostLogistics.Services.DTOs.deps.json
+C:\Users\sime2\Desktop\5sem\SKS\aspnetcore-server-generated\src\KW.PostLogistics.Services.DTOs\bin\Debug\netstandard2.0\KW.PostLogistics.Services.DTOs.dll
+C:\Users\sime2\Desktop\5sem\SKS\aspnetcore-server-generated\src\KW.PostLogistics.Services.DTOs\bin\Debug\netstandard2.0\KW.PostLogistics.Services.DTOs.pdb
+C:\Users\sime2\Desktop\5sem\SKS\aspnetcore-server-generated\src\KW.PostLogistics.Services.DTOs\obj\Debug\netstandard2.0\KW.PostLogistics.Services.DTOs.csprojAssemblyReference.cache
+C:\Users\sime2\Desktop\5sem\SKS\aspnetcore-server-generated\src\KW.PostLogistics.Services.DTOs\obj\Debug\netstandard2.0\KW.PostLogistics.Services.DTOs.AssemblyInfoInputs.cache
+C:\Users\sime2\Desktop\5sem\SKS\aspnetcore-server-generated\src\KW.PostLogistics.Services.DTOs\obj\Debug\netstandard2.0\KW.PostLogistics.Services.DTOs.AssemblyInfo.cs
+C:\Users\sime2\Desktop\5sem\SKS\aspnetcore-server-generated\src\KW.PostLogistics.Services.DTOs\obj\Debug\netstandard2.0\KW.PostLogistics.Services.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\sime2\Desktop\5sem\SKS\aspnetcore-server-generated\src\KW.PostLogistics.Services.DTOs\obj\Debug\netstandard2.0\KW.PostLogistics.Services.DTOs.dll
+C:\Users\sime2\Desktop\5sem\SKS\aspnetcore-server-generated\src\KW.PostLogistics.Services.DTOs\obj\Debug\netstandard2.0\KW.PostLogistics.Services.DTOs.pdb

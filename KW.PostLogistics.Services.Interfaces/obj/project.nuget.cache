@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1wu1ryQhnHj7Lo5JhidCGK7GXHqt+Vhc9DuRO/zPDGt3i8lhtorQ8OhYW4Bm6bncOyRE59nkREnls4IFrimaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sime2\\Desktop\\5sem\\SKS\\aspnetcore-server-generated\\src\\KW.PostLogistics.Services.Interfaces\\KW.PostLogistics.Services.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sime2\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.6.3\\swashbuckle.aspnetcore.annotations.5.6.3.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

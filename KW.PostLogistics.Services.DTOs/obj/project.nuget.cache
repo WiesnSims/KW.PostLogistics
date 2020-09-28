@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "JOQYfy9XOLT2cj86/8DcZEqF5Jk+fITUOGYO5Ae5OdY/nNbEN4Bsv+u756JWilkO0BUd0eJXQsJSmNGsUbzYpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sime2\\Desktop\\5sem\\SKS\\aspnetcore-server-generated\\src\\KW.PostLogistics.Services.DTOs\\KW.PostLogistics.Services.DTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sime2\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.6.3\\swashbuckle.aspnetcore.annotations.5.6.3.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\swashbuckle.aspnetcore.newtonsoft\\5.6.3\\swashbuckle.aspnetcore.newtonsoft.5.6.3.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\sime2\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
